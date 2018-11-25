@@ -1,8 +1,14 @@
 package javaWeek_2.exercise3;
 
+import java.util.List;
+
 public class BootShopApplication {
 
     public static void main(String[] args) {
+        BootShopAssistant bootShopAssistant = new BootShopAssistant();
+        Hansel hansel = new Hansel();
+        List<HikingBoot> recommendations = bootShopAssistant.getHikingBootRecommendations();
+        hansel.tryHikingBoot(recommendations);
 
     }
 }

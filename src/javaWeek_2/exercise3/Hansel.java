@@ -1,22 +1,27 @@
 package javaWeek_2.exercise3;
 
+
 import java.util.List;
 
-/*public class Hansel {
+public class Hansel {
 
     private Integer footSize = 41;
 
-    private Boolean isRightSize(HikingBoot hikingBoot) {
-        return hikingBoot.equals(footSize);
 
+    private Boolean isRightSize(HikingBoot hikingBoot) {
+        return hikingBoot.getSize().equals(footSize);
     }
 
-    public void tryHikingBoots(List<HikingBoot> recommendations) {
-        if(!isRightSize(boot)){
-            System.out.println("This one does not fit, sorry.");
-        }
-        else {
-            System.out.println("I’m buying this one, thanks!");
+    public void tryHikingBoot(List<HikingBoot> recommendations) {
+
+        for (HikingBoot hikingBoot : recommendations) {
+            if(!isRightSize(hikingBoot)) {
+                System.out.println("This one does not fit, sorry.");
+            }
+            else {
+                System.out.println("I’m buying this one, thanks!");
+                return;
+            }
         }
 
     }

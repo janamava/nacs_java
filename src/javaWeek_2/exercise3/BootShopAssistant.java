@@ -1,28 +1,19 @@
 package javaWeek_2.exercise3;
 
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.List;
 
-/*public class BootShopAssistant {
+public class BootShopAssistant {
 
-    public List<String> getHikingBootRecommendations(){
-
-        List<Integer> hikingBoots = makeHikingBootRecommendations();
-
-        return hikingBoots.shuffle();
+    public List<HikingBoot> getHikingBootRecommendations() {
+        List<HikingBoot> recommendations = new ArrayList<>();
+        recommendations.add(new HikingBoot(40));
+        recommendations.add(new HikingBoot(41));
+        recommendations.add(new HikingBoot(42));
+        Collections.shuffle(recommendations);
+        return recommendations;
     }
-
-    public List<Integer> makeHikingBootRecommendations() {
-        List<Integer> hikingBoots = new ArrayList<>();
-        Integer boot1 = 40;
-        hikingBoots.add(boot1);
-        Integer boot2 = 41;
-        hikingBoots.add(boot2);
-        Integer boot3 = 42;
-        hikingBoots.add(boot3);
-        return hikingBoots;
-    }
-
 }
 
 /*
