@@ -1,4 +1,4 @@
-package practice_folder;
+package notebook.reusable;
 
 import javaWeek_4.exercise5.Grocery;
 

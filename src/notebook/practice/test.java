@@ -1,4 +1,4 @@
-package practice_folder;
+package notebook.practice;
 
 public class test {
 

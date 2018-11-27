@@ -33,19 +33,29 @@ public class AdvancedIndexApplication {
         Collection<List<Topic>> topics = index.values();
         System.out.println("Index values: " + topics);
 
-        Topic newTopic = new Topic("teaching methods");
+        Set<Map.Entry<Integer, List<Topic>>> entrySet = index.entrySet();
+        System.out.println("Index entry sets: " + entrySet);
 
-        List<Topic> stored = index.get(topics1);
+        Topic newTopic = new Topic("teaching methods");
+        List<Topic> stored = index.get(pageOne);
         stored.add(newTopic);
-        System.out.println(stored);
+        System.out.println("Index: " + index);
+
+        if (index.containsKey(pageOne)) {
+            System.out.println("The page number 1 exists as key");
+        }
+
+        List<Topic> stored2 = index.get(pageTwo);
+        System.out.println("The topics in page number 2 are " + stored2);
+
+        Integer sizeIndex = index.size();
+        System.out.println("Index size: " + sizeIndex);
 
     }
 }
 /*
-Create the AdvancedIndexApplication class and write the following instructions in its main method:
 Create the Topic class that has a name.
-Create an empty index map connecting Integer for the page numbers and a List of Topic for the several book topics that
-will appear in each page and display it.
+Create an empty index map connecting Integer for the page numbers and a List of Topic for the several book topics that will appear in each page and display it.
 Create two Integers that represent two different page numbers.
 Create three Topic objects.
 Create two lists: topics1 and topics2.
@@ -54,15 +64,12 @@ Put the page numbers and topics1 and topics2 respectively into the index map .
 Display the map keys. To display the Topic class create the toString method.
 Display the map values. To display the Topic class create the toString method.
 Create another different Topic.
-
 Get the topics1 from the map and call it stored. Add to stored the last Topic you created. Display the map.
-
 Ask if one of the keys is contained in the map and display the answer.
 Get the topics2 from the map and call it stored2 and display it.
 Display its size.
 Hints:
 Use Intellij shortcuts to create the toString and equals methods.
-
 
 
 Index: {}
