@@ -26,7 +26,6 @@ public class CharacterReader {
             characters.add(character);
         }
         return characters;
-
     }
 
     public Character transformLineInCharacter(String fileLine) {
@@ -35,24 +34,22 @@ public class CharacterReader {
 
         String name = mutableSplitted.get(0);
         String bookOfDeath = mutableSplitted.get(3);
-        String gender = findGender(mutableSplitted);
-
+        String gender = mutableSplitted.get(6);
         return new Character(name, bookOfDeath, gender);
     }
-
-    public String findGender(List<String> mutableSplitted) {
-        String gender;
-
-        if (mutableSplitted.get(6).equals("1")){
-            gender = "man";
-        }
-        if (mutableSplitted.get(6).equals("0")){
-            gender = "woman";
-        }
-        return gender;
-    }
-
-
 }
+
+//  findGender(mutableSplitted);
+//    public String findGender(List<String> mutableSplitted) {
+//        String gender;
+//
+//        if (mutableSplitted.get(6).equals("1")){
+//            gender = "man";
+//        }
+//        if (mutableSplitted.get(6).equals("0")){
+//            gender = "woman";
+//        }
+//        return gender;
+
 //Create the CharacterReader class that has the getCharacters method that receives a filePath,
 // uses a FileReader to read its lines, transforms them into Characters and returns them.
