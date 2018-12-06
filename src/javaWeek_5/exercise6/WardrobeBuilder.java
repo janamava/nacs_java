@@ -9,6 +9,15 @@ public class WardrobeBuilder {
     private List<Step> steps = new ArrayList<>();
 
 
+    public Wardrobe build() { //constructs a wardrobe
+        Wardrobe wardrobe = new Wardrobe();
+        List<Step> steps = getSteps();
+        for (Step step : steps) {
+            step.perform(wardrobe);
+        }
+        return wardrobe;
+    }
+
     public List<Step> getSteps() { //returns list steps to construct a wardrobe
         addOneStep(new AddBottom(), 1);
         addOneStep(new AddSide(), 2);
@@ -23,15 +32,6 @@ public class WardrobeBuilder {
         for (int time = 0; time < times; time++) {
             steps.add(step);
         }
-    }
-
-    public Wardrobe build() { //constructs a wardrobe
-        Wardrobe wardrobe = new Wardrobe();
-        List<Step> steps = getSteps();
-        for (Step step : steps) {
-            step.perform(wardrobe);
-        }
-        return wardrobe;
     }
 
 }

@@ -1,6 +1,5 @@
 package javaWeek_5.exercise4;
 
-import javaWeek_5.exercise5.Joker;
 import javaWeek_5.exercise5.Villain;
 
 public class Batman implements Superhero {

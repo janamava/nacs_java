@@ -17,6 +17,10 @@ public class Wardrobe implements Furniture {
     public String toString() {
         return "Wardrobe{" + "parts=" + parts + '}';
     }
+
+    public List<String> getParts(){
+        return parts;
+    }
 }
 /*
 Create the Wardrobe class that has a list of String representing its different parts.
