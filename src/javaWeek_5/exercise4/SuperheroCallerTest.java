@@ -8,7 +8,7 @@ import java.util.List;
 class SuperheroCallerTest {
 
     private SuperheroCaller caller = new SuperheroCaller();
-    private List<String> superheroNames = new Superheroes().getNames();
+    private List<String> superheroNames = Superheroes.getNames();
 
     @Test
     void call() {

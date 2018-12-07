@@ -14,9 +14,8 @@ public class CharacterReader {
     }
 
     public List<String> read(String filePath) {
-        FileReader reader = new FileReader();
-        List<String> fileLines = reader.asLines(filePath);
-        return fileLines;
+        List<String> lines = new FileReader().asLines(filePath);
+        return lines;
     }
 
     public List<Character> transformLinesInCharacters(List<String> fileLines) {
