@@ -16,9 +16,7 @@ public class TvTable implements Furniture {
 
     @Override
     public String toString() {
-        return "TvTable{" +
-                "parts=" + parts +
-                '}';
+        return ""+parts;
     }
 
     public List<String> getParts() {
