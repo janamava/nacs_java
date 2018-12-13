@@ -7,7 +7,7 @@ public class Game {
 
     public void play(){
 
-        System.out.println("Let’s play rock, paper, scissors!");
+        System.out.println("Let's play rock, paper, scissors, lizard, spock!");
 
         Player player1 = new Human();
         Player player2 = new Computer();
@@ -23,7 +23,7 @@ public class Game {
     public void askPlayers() {
         System.out.println("Do you want to play again?");
         String answer = new Scanner(System.in).nextLine();
-        if (answer.equals("yes")){
+        if ("yes".equals(answer)){
             play();
         }
         else{

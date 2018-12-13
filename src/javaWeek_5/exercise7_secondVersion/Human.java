@@ -8,7 +8,7 @@ public class Human implements Player{
 
     @Override
     public Optional<Move> makeMove() {
-        System.out.println("These are your options: rock, paper, scissors");
+        System.out.println("These are your options: rock, paper, scissors, lizard, spock");
         System.out.println("Choose one:");
 
         String input = new Scanner(System.in).nextLine();

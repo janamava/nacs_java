@@ -4,10 +4,10 @@ public class Rock implements Move {
 
     @Override
     public void defeat(Move move) {
-        if (move.toString().equals("scissors")){
+        if (move.toString().equals("scissors") || move.toString().equals("lizard")){
             System.out.println("You win!");
         }
-        else if (move.toString().equals("paper")){
+        else if (move.toString().equals("paper") || move.toString().equals("spock")){
             System.out.println("You lose!");
         }
         else{

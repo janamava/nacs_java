@@ -5,7 +5,9 @@ import java.util.List;
 
 public class Moves {
 
-    private static List<Move> moves = Arrays.asList(new Rock(), new Scissors(), new Paper());//it is created once and can be reused without wasting memory
+    //it is created once and can be reused without wasting memory
+    private static List<Move> moves = Arrays.asList(new Rock(), new Scissors(), new Paper(),
+            new Lizard(), new Spock());
 
     public static List<Move> getMoves() {
         return moves;

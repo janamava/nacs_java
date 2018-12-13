@@ -4,10 +4,10 @@ public class Paper implements Move{
 
     @Override
     public void defeat(Move move) {
-        if (move.toString().equals("rock")){
+        if (move.toString().equals("rock") || move.toString().equals("spock")){
             System.out.println("You win!");
         }
-        else if (move.toString().equals("scissors")){
+        else if (move.toString().equals("scissors") || move.toString().equals("lizard")){
             System.out.println("You lose!");
         }
         else{
