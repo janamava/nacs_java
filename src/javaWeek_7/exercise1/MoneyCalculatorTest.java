@@ -10,7 +10,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 class MoneyCalculatorTest {
 
-    List<Integer> moneys = Arrays.asList(1, 5, 4, 3, 4, 2, 1, 3, 5, 2);
+    private List<Integer> moneys = Arrays.asList(1, 5, 4, 3, 4, 2, 1, 3, 5, 2);
 
     @Test
     void calculateTotalSum() {
