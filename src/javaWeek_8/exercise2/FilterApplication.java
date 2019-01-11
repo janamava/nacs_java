@@ -17,7 +17,7 @@ public class FilterApplication {
         words.replaceAll(word -> word.toUpperCase());
         System.out.println(words);
 
-        words.removeIf(word->word.length() < 6);
+        words.removeIf(word -> word.length() < 6);
         System.out.println(words);
 
         words.forEach(word -> System.out.println(word));
