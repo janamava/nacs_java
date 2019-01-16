@@ -8,19 +8,20 @@ public class Thermostat {
     Predicate<Double> trigger;
     Function<Double, String> display;
 
-    public Thermostat(Predicate<Double> trigger) {
+    public Thermostat(Predicate<Double> trigger, Function<Double, String> display) {
         this.trigger = trigger;
-    }
-
-    public Thermostat(Function<Double, String> display) {
         this.display = display;
     }
 
-    public String sense(Double temperature, Predicate<Double> condition) {
-        while (!condition.test(temperature)) {
-            display(temperature);
+    //public Thermostat(Function<Double, String> display) {
+      //  this.display = display;
+    //}
+
+    public String sense(Double temperature) {
+        while (trigger.test(temperature)) {
+            return "Warning!";
         }
-        return "Warning!";
+        return display.apply(temperature);
     }
 
 }

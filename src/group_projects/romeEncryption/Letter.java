@@ -17,4 +17,5 @@ public class Letter {
     public Integer getPosition() {
         return number;
     }
+
 }

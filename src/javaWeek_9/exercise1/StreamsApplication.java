@@ -1,4 +1,4 @@
-package javaWeek_9;
+package javaWeek_9.exercise1;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -47,10 +47,13 @@ public class StreamsApplication {
                 .filter(e -> e < 12)
                 .collect(Collectors.toList());
 
-        System.out.println("Digits of numbers bigger than 8 and smaller than 12: ");
+        System.out.println("Digits of numbers bigger than 8 and smaller than 12:");
 
         numbersFrom8To12.stream()
-                .forEach(e -> System.out.print("number " + e + " has " + String.valueOf(e).length() + " digits "));
+                .forEach(e -> System.out.print("Number " + e + " has " + String.valueOf(e).length() + " digits "));
+
+
+
 
 
     }

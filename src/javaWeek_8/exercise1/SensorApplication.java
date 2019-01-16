@@ -11,7 +11,7 @@ public class SensorApplication {
         Sensor sensor = new Sensor();
         Archive archive = new Archive();
 
-        List<String> lines = fileReader.asLines("files/robomime.txt");
+        List<String> lines = fileReader.asList("files/robomime.txt");
         List<String> decrypted = sensor.decryptManyLines(lines);
         archive.display(decrypted);
     }
