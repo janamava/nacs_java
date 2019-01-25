@@ -13,6 +13,7 @@ class CaesarTest {
     void testAlphabetic() {
         String actual = caesar.cipher("XyZ", 1);
         String expected = "YzA";
+        System.out.println(actual);
         Assertions.assertEquals(expected, actual);
 
     }

@@ -31,7 +31,7 @@ Book: 5 | Deaths: 61
 Book: 1 | Deaths: 49
 Book: 4 | Deaths: 27
 Book with the most dead counts is book 3 with 97 deaths
-Characters who died in book number 3:
+CharacterGenerator who died in book number 3:
 {name : Aegon Frey (Jinglebell) | book of death : 3 | gender : man}
 {name : Alyn | book of death : 3 | gender : man}
 {name : Anvil Ryn | book of death : 3 | gender : man}

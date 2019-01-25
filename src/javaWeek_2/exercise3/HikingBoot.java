@@ -14,5 +14,5 @@ public class HikingBoot {
 }
 
 /*
-Define the HikingBoot data class that has a size attribute.
+Define the HikingBoot model class that has a size attribute.
  */

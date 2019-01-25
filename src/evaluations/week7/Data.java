@@ -10,12 +10,12 @@
 //public class Data {
 //
 //    private static FileReader reader = new FileReader();
-//    private static List<String> data = reader.asLines("files/employees.csv");
+//    private static List<String> model = reader.asLines("files/employees.csv");
 //
 //    public static List<Integer> getSalaries(){
 //        List<Integer> salaries = new ArrayList<>();
-//        for (int position = 2; position < data.size(); position+=4) {
-//            String salaryAsString = data.get(position);
+//        for (int position = 2; position < model.size(); position+=4) {
+//            String salaryAsString = model.get(position);
 //            Integer salary = Integer.parseInt(salaryAsString);
 //            salaries.add(salary);
 //        }
@@ -29,8 +29,8 @@
 //
 //    public static String getHighestPaidEmployee(){
 //        Map<String, Integer> whoEarnsWhat = new HashMap<>();
-//        for (int position = 0; position < data.size(); position+=4) {
-//            String name = data.get(position);
+//        for (int position = 0; position < model.size(); position+=4) {
+//            String name = model.get(position);
 //            whoEarnsWhat.put(name, (position));
 //        }
 //            return whoEarnsWhat;

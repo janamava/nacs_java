@@ -1,4 +1,4 @@
-package evaluations.week9;
+/*package evaluations.week9;
 
 
 import fileReader.FileReader;
@@ -59,3 +59,4 @@ public class Surveyer {
 
 
 }
+*/

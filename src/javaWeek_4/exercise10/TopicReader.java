@@ -26,6 +26,6 @@ public class TopicReader {
 
 /*
 Create the TopicReader class that has a FileReader as an attribute.
-It has the getTopics method that uses the File Reader to read the topics.txt file,
+It has the getTopics method that uses the File PokemonReader to read the topics.txt file,
 transform every line into one Topic and returns the list of topics.
  */

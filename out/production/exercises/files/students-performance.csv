@@ -1,0 +1,1001 @@
+gender;parental level of education;math score;reading score;writing score
+female;bachelor's degree;72;72;74
+female;some college;69;90;88
+female;master's degree;90;95;93
+male;associate's degree;47;57;44
+male;some college;76;78;75
+female;associate's degree;71;83;78
+female;some college;88;95;92
+male;some college;40;43;39
+male;high school;64;64;67
+female;high school;38;60;50
+male;associate's degree;58;54;52
+male;associate's degree;40;52;43
+female;high school;65;81;73
+male;some college;78;72;70
+female;master's degree;50;53;58
+female;some high school;69;75;78
+male;high school;88;89;86
+female;some high school;18;32;28
+male;master's degree;46;42;46
+female;associate's degree;54;58;61
+male;high school;66;69;63
+female;some college;65;75;70
+male;some college;44;54;53
+female;some high school;69;73;73
+male;bachelor's degree;74;71;80
+male;master's degree;73;74;72
+male;some college;69;54;55
+female;bachelor's degree;67;69;75
+male;high school;70;70;65
+female;master's degree;62;70;75
+female;some college;69;74;74
+female;some college;63;65;61
+female;master's degree;56;72;65
+male;some college;40;42;38
+male;some college;97;87;82
+male;associate's degree;81;81;79
+female;associate's degree;74;81;83
+female;some high school;50;64;59
+female;associate's degree;75;90;88
+male;associate's degree;57;56;57
+male;associate's degree;55;61;54
+female;associate's degree;58;73;68
+female;associate's degree;53;58;65
+male;some college;59;65;66
+female;associate's degree;50;56;54
+male;associate's degree;65;54;57
+female;associate's degree;55;65;62
+female;high school;66;71;76
+female;associate's degree;57;74;76
+male;high school;82;84;82
+male;some college;53;55;48
+male;associate's degree;77;69;68
+male;some college;53;44;42
+male;high school;88;78;75
+female;some high school;71;84;87
+female;high school;33;41;43
+female;associate's degree;82;85;86
+male;associate's degree;52;55;49
+male;some college;58;59;58
+female;some high school;0;17;10
+male;bachelor's degree;79;74;72
+male;some high school;39;39;34
+male;associate's degree;62;61;55
+female;associate's degree;69;80;71
+female;some high school;59;58;59
+male;some high school;67;64;61
+male;some high school;45;37;37
+female;some college;60;72;74
+male;associate's degree;61;58;56
+female;associate's degree;39;64;57
+female;some college;58;63;73
+male;some college;63;55;63
+female;associate's degree;41;51;48
+male;some high school;61;57;56
+male;some high school;49;49;41
+male;associate's degree;44;41;38
+male;some high school;30;26;22
+male;bachelor's degree;80;78;81
+female;some high school;61;74;72
+female;master's degree;62;68;68
+female;associate's degree;47;49;50
+male;high school;49;45;45
+male;some college;50;47;54
+male;associate's degree;72;64;63
+male;high school;42;39;34
+female;some college;73;80;82
+female;some college;76;83;88
+female;associate's degree;71;71;74
+female;some college;58;70;67
+female;some high school;73;86;82
+female;bachelor's degree;65;72;74
+male;high school;27;34;36
+male;high school;71;79;71
+male;associate's degree;43;45;50
+female;some college;79;86;92
+male;associate's degree;78;81;82
+male;some high school;65;66;62
+female;some college;63;72;70
+female;some college;58;67;62
+female;bachelor's degree;65;67;62
+male;some college;79;67;67
+male;bachelor's degree;68;74;74
+female;associate's degree;85;91;89
+male;high school;60;44;47
+male;some college;98;86;90
+female;some college;58;67;72
+female;master's degree;87;100;100
+male;associate's degree;66;63;64
+female;associate's degree;52;76;70
+female;some high school;70;64;72
+female;associate's degree;77;89;98
+male;high school;62;55;49
+male;associate's degree;54;53;47
+female;some college;51;58;54
+female;bachelor's degree;99;100;100
+male;high school;84;77;74
+female;bachelor's degree;75;85;82
+female;bachelor's degree;78;82;79
+female;some high school;51;63;61
+female;some college;55;69;65
+female;bachelor's degree;79;92;89
+male;associate's degree;91;89;92
+female;some college;88;93;93
+male;high school;63;57;56
+male;some college;83;80;73
+female;high school;87;95;86
+male;some high school;72;68;67
+male;some college;65;77;74
+male;master's degree;82;82;74
+female;bachelor's degree;51;49;51
+male;master's degree;89;84;82
+male;some high school;53;37;40
+male;some college;87;74;70
+female;some college;75;81;84
+male;bachelor's degree;74;79;75
+male;bachelor's degree;58;55;48
+male;some high school;51;54;41
+male;high school;70;55;56
+female;associate's degree;59;66;67
+male;some college;71;61;69
+female;some high school;76;72;71
+female;some college;59;62;64
+female;some college;42;55;54
+male;high school;57;43;47
+male;some college;88;73;78
+female;some college;22;39;33
+male;some high school;88;84;75
+male;associate's degree;73;68;66
+female;bachelor's degree;68;75;81
+male;associate's degree;100;100;93
+male;some high school;62;67;69
+male;bachelor's degree;77;67;68
+female;associate's degree;59;70;66
+male;bachelor's degree;54;49;47
+male;some high school;62;67;61
+female;some college;70;89;88
+female;high school;66;74;78
+male;some college;60;60;60
+female;associate's degree;61;86;87
+male;associate's degree;66;62;64
+male;associate's degree;82;78;74
+female;some college;75;88;85
+male;master's degree;49;53;52
+male;high school;52;53;49
+female;master's degree;81;92;91
+female;bachelor's degree;96;100;100
+male;high school;53;51;51
+female;master's degree;58;76;78
+female;high school;68;83;78
+female;some college;67;75;70
+male;high school;72;73;74
+male;some high school;94;88;78
+female;some college;79;86;81
+female;associate's degree;63;67;70
+female;bachelor's degree;43;51;54
+female;master's degree;81;91;87
+female;high school;46;54;58
+female;associate's degree;71;77;77
+female;master's degree;52;70;62
+female;some high school;97;100;100
+male;master's degree;62;68;75
+female;some college;46;64;66
+female;high school;50;50;47
+female;associate's degree;65;69;70
+male;some high school;45;52;49
+male;associate's degree;65;67;65
+male;high school;80;76;65
+male;some high school;62;66;68
+male;some high school;48;52;45
+female;bachelor's degree;77;88;87
+female;associate's degree;66;65;69
+male;some college;76;83;79
+female;some high school;62;64;66
+male;some college;77;62;62
+female;master's degree;69;84;85
+male;associate's degree;61;55;52
+male;some high school;59;69;65
+male;high school;55;56;51
+female;some college;45;53;55
+female;bachelor's degree;78;79;76
+female;associate's degree;67;84;86
+female;some college;65;81;77
+male;associate's degree;69;77;69
+female;associate's degree;57;69;68
+male;some college;59;41;42
+male;some high school;74;71;78
+male;bachelor's degree;82;62;62
+male;high school;81;80;76
+female;some college;74;81;76
+female;some college;58;61;66
+male;some high school;80;79;79
+male;some college;35;28;27
+female;high school;42;62;60
+male;associate's degree;60;51;56
+male;high school;87;91;81
+male;some high school;84;83;75
+female;associate's degree;83;86;88
+female;high school;34;42;39
+male;high school;66;77;70
+male;some high school;61;56;56
+female;high school;56;68;74
+male;associate's degree;87;85;73
+female;some high school;55;65;62
+male;some high school;86;80;75
+female;associate's degree;52;66;73
+female;master's degree;45;56;54
+female;some college;72;72;71
+male;high school;57;50;54
+male;some high school;68;72;64
+female;some college;88;95;94
+male;some college;76;64;66
+male;associate's degree;46;43;42
+female;bachelor's degree;67;86;83
+male;some high school;92;87;78
+male;bachelor's degree;83;82;84
+male;associate's degree;80;75;77
+male;bachelor's degree;63;66;67
+female;some high school;64;60;74
+male;some college;54;52;51
+male;associate's degree;84;80;80
+male;high school;73;68;66
+female;bachelor's degree;80;83;83
+female;high school;56;52;55
+male;some college;59;51;43
+male;some high school;75;74;69
+male;associate's degree;85;76;71
+male;associate's degree;89;76;74
+female;high school;58;70;68
+female;high school;65;64;62
+male;high school;68;60;53
+male;some high school;47;49;49
+female;some college;71;83;83
+female;some high school;60;70;70
+male;master's degree;80;80;72
+male;high school;54;52;52
+female;some college;62;73;70
+female;associate's degree;64;73;68
+male;associate's degree;78;77;77
+female;some college;70;75;78
+female;master's degree;65;81;81
+female;some high school;64;79;77
+male;some college;79;79;78
+female;some high school;44;50;51
+female;high school;99;93;90
+male;high school;76;73;68
+male;some high school;59;42;41
+female;bachelor's degree;63;75;81
+female;high school;69;72;77
+female;associate's degree;88;92;95
+female;some college;71;76;70
+male;bachelor's degree;69;63;61
+male;some college;58;49;42
+female;associate's degree;47;53;58
+female;some college;65;70;71
+male;some college;88;85;76
+male;bachelor's degree;83;78;73
+female;some high school;85;92;93
+female;high school;59;63;75
+female;some high school;65;86;80
+male;bachelor's degree;73;56;57
+male;high school;53;52;42
+male;high school;45;48;46
+female;bachelor's degree;73;79;84
+female;some college;70;78;78
+female;some high school;37;46;46
+male;associate's degree;81;82;82
+male;associate's degree;97;82;88
+female;some high school;67;89;82
+male;bachelor's degree;88;75;76
+male;some high school;77;76;77
+male;associate's degree;76;70;68
+male;some high school;86;73;70
+male;some high school;63;60;57
+female;bachelor's degree;65;73;75
+male;high school;78;77;80
+male;associate's degree;67;62;60
+male;some high school;46;41;43
+male;associate's degree;71;74;68
+male;high school;40;46;50
+male;associate's degree;90;87;75
+male;some college;81;78;81
+male;some high school;56;54;52
+female;associate's degree;67;84;81
+male;associate's degree;80;76;64
+female;associate's degree;74;75;83
+male;some college;69;67;69
+male;some college;99;87;81
+male;some high school;51;52;44
+female;associate's degree;53;71;67
+female;high school;49;57;52
+female;associate's degree;73;76;80
+male;bachelor's degree;66;60;57
+male;bachelor's degree;67;61;68
+female;associate's degree;68;67;69
+female;bachelor's degree;59;64;75
+male;high school;71;66;65
+female;master's degree;77;82;91
+male;associate's degree;83;72;78
+male;bachelor's degree;63;71;69
+female;associate's degree;56;65;63
+female;high school;67;79;84
+female;high school;75;86;79
+female;some college;71;81;80
+female;some high school;43;53;53
+female;high school;41;46;43
+female;some college;82;90;94
+male;some college;61;61;62
+male;some college;28;23;19
+male;associate's degree;82;75;77
+female;some high school;41;55;51
+male;high school;71;60;61
+male;associate's degree;47;37;35
+male;associate's degree;62;56;53
+male;associate's degree;90;78;81
+female;bachelor's degree;83;93;95
+female;some college;61;68;66
+male;some high school;76;70;69
+male;associate's degree;49;51;43
+female;some high school;24;38;27
+female;some high school;35;55;60
+male;high school;58;61;52
+female;high school;61;73;63
+female;high school;69;76;74
+male;associate's degree;67;72;67
+male;some college;79;73;67
+female;high school;72;80;75
+male;some college;62;61;57
+female;bachelor's degree;77;94;95
+male;high school;75;74;66
+male;associate's degree;87;74;76
+female;bachelor's degree;52;65;69
+male;some college;66;57;52
+female;some college;63;78;80
+female;associate's degree;46;58;57
+female;some college;59;71;70
+female;bachelor's degree;61;72;70
+male;associate's degree;63;61;61
+female;some college;42;66;69
+male;some college;59;62;61
+female;some college;80;90;89
+female;high school;58;62;59
+male;some high school;85;84;78
+female;some college;52;58;58
+female;some high school;27;34;32
+male;some college;59;60;58
+male;bachelor's degree;49;58;60
+male;high school;69;58;53
+male;bachelor's degree;61;66;61
+female;some high school;44;64;58
+female;some high school;73;84;85
+male;some college;84;77;71
+female;some college;45;73;70
+male;some high school;74;74;72
+female;some college;82;97;96
+female;bachelor's degree;59;70;73
+male;associate's degree;46;43;41
+female;some high school;80;90;82
+female;master's degree;85;95;100
+female;some high school;71;83;77
+male;bachelor's degree;66;64;62
+female;associate's degree;80;86;83
+male;associate's degree;87;100;95
+male;master's degree;79;81;71
+female;some high school;38;49;45
+female;some high school;38;43;43
+female;some college;67;76;75
+female;bachelor's degree;64;73;70
+female;associate's degree;57;78;67
+female;high school;62;64;64
+male;master's degree;73;70;75
+male;some high school;73;67;59
+female;some college;77;68;77
+male;some college;76;67;67
+male;associate's degree;57;54;56
+female;some high school;65;74;77
+male;high school;48;45;41
+female;high school;50;67;63
+female;associate's degree;85;89;95
+male;some high school;74;63;57
+male;some high school;60;59;54
+female;some high school;59;54;67
+male;some college;53;43;43
+female;some college;49;65;55
+female;high school;88;99;100
+female;high school;54;59;62
+female;some high school;63;73;68
+male;associate's degree;65;65;63
+female;associate's degree;82;80;77
+female;high school;52;57;56
+male;associate's degree;87;84;85
+female;master's degree;70;71;74
+male;some college;84;83;78
+male;associate's degree;71;66;60
+male;some high school;63;67;67
+female;bachelor's degree;51;72;79
+male;high school;84;73;69
+male;bachelor's degree;71;74;68
+male;associate's degree;74;73;67
+male;some college;68;59;62
+male;high school;57;56;54
+female;associate's degree;82;93;93
+female;high school;57;58;64
+female;master's degree;47;58;67
+female;some high school;59;85;80
+male;some college;41;39;34
+female;some college;62;67;62
+male;bachelor's degree;86;83;86
+male;some high school;69;71;65
+male;some high school;65;59;53
+male;some high school;68;63;54
+male;associate's degree;64;66;59
+female;high school;61;72;70
+male;high school;61;56;55
+female;some high school;47;59;50
+male;some high school;73;66;66
+male;some college;50;48;53
+male;associate's degree;75;68;64
+male;associate's degree;75;66;73
+male;high school;70;56;51
+male;some high school;89;88;82
+female;some college;67;81;79
+female;high school;78;81;80
+female;some high school;59;73;69
+female;associate's degree;73;83;76
+male;some high school;79;82;73
+female;some high school;67;74;77
+male;some college;69;66;60
+male;high school;86;81;80
+male;high school;47;46;42
+male;associate's degree;81;73;72
+female;some college;64;85;85
+female;some college;100;92;97
+female;associate's degree;65;77;74
+male;some college;65;58;49
+female;associate's degree;53;61;62
+male;bachelor's degree;37;56;47
+female;bachelor's degree;79;89;89
+male;associate's degree;53;54;48
+female;bachelor's degree;100;100;100
+male;high school;72;65;68
+male;bachelor's degree;53;58;55
+male;some college;54;54;45
+female;some college;71;70;76
+female;some college;77;90;91
+male;bachelor's degree;75;58;62
+female;some college;84;87;91
+female;associate's degree;26;31;38
+male;high school;72;67;65
+female;high school;77;88;85
+male;some college;91;74;76
+female;associate's degree;83;85;90
+female;high school;63;69;74
+female;associate's degree;68;86;84
+female;some high school;59;67;61
+female;associate's degree;90;90;91
+female;bachelor's degree;71;76;83
+male;bachelor's degree;76;62;66
+male;associate's degree;80;68;72
+female;master's degree;55;64;70
+male;associate's degree;76;71;67
+male;high school;73;71;68
+female;associate's degree;52;59;56
+male;some college;68;68;61
+male;high school;59;52;46
+female;associate's degree;49;52;54
+male;high school;70;74;71
+male;some college;61;47;56
+female;associate's degree;60;75;74
+male;some high school;64;53;57
+male;associate's degree;79;82;82
+female;associate's degree;65;85;76
+female;associate's degree;64;64;70
+female;some college;83;83;90
+female;bachelor's degree;81;88;90
+female;high school;54;64;68
+male;high school;68;64;66
+female;some college;54;48;52
+female;some college;59;78;76
+female;some high school;66;69;68
+male;some college;76;71;72
+female;master's degree;74;79;82
+female;associate's degree;94;87;92
+male;some college;63;61;54
+female;associate's degree;95;89;92
+female;master's degree;40;59;54
+female;some high school;82;82;80
+male;high school;68;70;66
+male;bachelor's degree;55;59;54
+male;master's degree;79;78;77
+female;bachelor's degree;86;92;87
+male;some college;76;71;73
+male;some high school;64;50;43
+male;some high school;62;49;52
+female;some high school;54;61;62
+female;master's degree;77;97;94
+female;some high school;76;87;85
+female;some college;74;89;84
+female;some college;66;74;73
+female;some high school;66;78;78
+female;high school;67;78;79
+male;some college;71;49;52
+female;associate's degree;91;86;84
+male;bachelor's degree;69;58;57
+male;master's degree;54;59;50
+male;high school;53;52;49
+male;some college;68;60;59
+male;some high school;56;61;60
+female;high school;36;53;43
+female;bachelor's degree;29;41;47
+female;associate's degree;62;74;70
+female;associate's degree;68;67;73
+female;some high school;47;54;53
+male;associate's degree;62;61;58
+female;associate's degree;79;88;94
+male;high school;73;69;68
+female;bachelor's degree;66;83;83
+male;associate's degree;51;60;58
+female;high school;51;66;62
+male;bachelor's degree;85;66;71
+male;associate's degree;97;92;86
+male;high school;75;69;68
+male;associate's degree;79;82;80
+female;associate's degree;81;77;79
+female;associate's degree;82;95;89
+female;master's degree;64;63;66
+male;some high school;78;83;80
+female;some high school;92;100;97
+male;high school;72;67;64
+female;high school;62;67;64
+male;master's degree;79;72;69
+male;some high school;79;76;65
+male;bachelor's degree;87;90;88
+female;associate's degree;40;48;50
+male;some college;77;62;64
+male;associate's degree;53;45;40
+female;some college;32;39;33
+female;associate's degree;55;72;79
+male;master's degree;61;67;66
+female;associate's degree;53;70;70
+male;some high school;73;66;62
+female;some college;74;75;79
+female;some college;63;74;74
+male;bachelor's degree;96;90;92
+female;some college;63;80;80
+male;bachelor's degree;48;51;46
+male;associate's degree;48;43;45
+female;bachelor's degree;92;100;100
+female;master's degree;61;71;78
+male;high school;63;48;47
+male;bachelor's degree;68;68;67
+male;some college;71;75;70
+male;bachelor's degree;91;96;92
+female;some college;53;62;56
+female;high school;50;66;64
+female;high school;74;81;71
+male;associate's degree;40;55;53
+male;some college;61;51;52
+female;high school;81;91;89
+female;some college;48;56;58
+female;master's degree;53;61;68
+female;some high school;81;97;96
+female;some high school;77;79;80
+female;bachelor's degree;63;73;78
+female;associate's degree;73;75;80
+female;some college;69;77;77
+female;associate's degree;65;76;76
+female;high school;55;73;73
+female;bachelor's degree;44;63;62
+female;some college;54;64;65
+female;some high school;48;66;65
+male;some college;58;57;54
+male;some high school;71;62;50
+male;bachelor's degree;68;68;64
+female;high school;74;76;73
+female;bachelor's degree;92;100;99
+female;bachelor's degree;56;79;72
+male;high school;30;24;15
+male;some high school;53;54;48
+female;high school;69;77;73
+female;some high school;65;82;81
+female;master's degree;54;60;63
+female;high school;29;29;30
+female;some college;76;78;80
+male;high school;60;57;51
+male;master's degree;84;89;90
+male;some high school;75;72;62
+female;associate's degree;85;84;82
+female;master's degree;40;58;54
+female;some college;61;64;62
+female;associate's degree;58;63;65
+male;some college;69;60;63
+female;some college;58;59;66
+male;bachelor's degree;94;90;91
+female;associate's degree;65;77;74
+female;associate's degree;82;93;93
+female;high school;60;68;72
+female;bachelor's degree;37;45;38
+male;bachelor's degree;88;78;83
+male;master's degree;95;81;84
+male;associate's degree;65;73;68
+female;high school;35;61;54
+male;bachelor's degree;62;63;56
+male;high school;58;51;52
+male;some college;100;96;86
+female;bachelor's degree;61;58;62
+male;some college;100;97;99
+male;associate's degree;69;70;63
+male;associate's degree;61;48;46
+male;some college;49;57;46
+female;some high school;44;51;55
+male;some college;67;64;70
+male;high school;79;60;65
+female;bachelor's degree;66;74;81
+female;high school;75;88;85
+male;some high school;84;84;80
+male;high school;71;74;64
+female;high school;67;80;81
+female;some high school;80;92;88
+male;some college;86;76;74
+female;associate's degree;76;74;73
+male;high school;41;52;51
+female;associate's degree;74;88;90
+female;some high school;72;81;79
+female;high school;74;79;80
+male;high school;70;65;60
+female;bachelor's degree;65;81;81
+female;associate's degree;59;70;65
+female;high school;64;62;68
+female;high school;50;53;55
+female;some college;69;79;81
+male;some high school;51;56;53
+female;high school;68;80;76
+female;some college;85;86;98
+female;associate's degree;65;70;74
+female;some high school;73;79;79
+female;some college;62;67;67
+male;associate's degree;77;67;64
+male;some high school;69;66;61
+female;associate's degree;43;60;58
+male;associate's degree;90;87;85
+male;some college;74;77;73
+male;some high school;73;66;63
+female;some college;55;71;69
+female;high school;65;69;67
+male;associate's degree;80;63;63
+female;some high school;50;60;60
+female;some college;63;73;71
+female;bachelor's degree;77;85;87
+male;some college;73;74;61
+male;associate's degree;81;72;77
+female;high school;66;76;68
+male;associate's degree;52;57;50
+female;some college;69;78;76
+female;associate's degree;65;84;84
+female;high school;69;77;78
+female;some college;50;64;66
+female;some college;73;78;76
+female;some high school;70;82;76
+male;associate's degree;81;75;78
+male;some college;63;61;60
+female;high school;67;72;74
+male;high school;60;68;60
+male;high school;62;55;54
+female;some high school;29;40;44
+male;some college;62;66;68
+female;master's degree;94;99;100
+male;some college;85;75;68
+male;associate's degree;77;78;73
+male;high school;53;58;44
+male;some college;93;90;83
+female;associate's degree;49;53;53
+female;associate's degree;73;76;78
+female;bachelor's degree;66;74;81
+female;associate's degree;77;77;73
+female;some high school;49;63;56
+female;some college;79;89;86
+female;associate's degree;75;82;90
+female;bachelor's degree;59;72;70
+female;associate's degree;57;78;79
+male;high school;66;66;59
+female;bachelor's degree;79;81;82
+female;some high school;57;67;72
+male;bachelor's degree;87;84;87
+female;some college;63;64;67
+female;some high school;59;63;64
+male;bachelor's degree;62;72;65
+male;high school;46;34;36
+male;some college;66;59;52
+male;high school;89;87;79
+female;associate's degree;42;61;58
+male;some college;93;84;90
+female;some high school;80;85;85
+female;some college;98;100;99
+male;master's degree;81;81;84
+female;some high school;60;70;74
+female;associate's degree;76;94;87
+male;associate's degree;73;78;72
+female;associate's degree;96;96;99
+female;high school;76;76;74
+male;associate's degree;91;73;80
+female;some college;62;72;70
+male;some high school;55;59;59
+female;some high school;74;90;88
+male;high school;50;48;42
+male;some college;47;43;41
+male;some college;81;74;71
+female;associate's degree;65;75;77
+male;some high school;68;51;57
+female;high school;73;92;84
+male;some college;53;39;37
+female;associate's degree;68;77;80
+male;some high school;55;46;43
+female;some college;87;89;94
+male;some high school;55;47;44
+female;some college;53;58;57
+male;master's degree;67;57;59
+male;associate's degree;92;79;84
+female;some college;53;66;73
+male;associate's degree;81;71;73
+male;high school;61;60;55
+male;bachelor's degree;80;73;72
+female;associate's degree;37;57;56
+female;high school;81;84;82
+female;associate's degree;59;73;72
+male;some college;55;55;47
+male;associate's degree;72;79;74
+male;high school;69;75;71
+male;some college;69;64;68
+female;bachelor's degree;50;60;59
+male;some college;87;84;86
+male;some high school;71;69;68
+male;some college;68;72;65
+male;master's degree;79;77;75
+female;some high school;77;90;85
+male;associate's degree;58;55;53
+female;associate's degree;84;95;92
+male;some college;55;58;52
+male;bachelor's degree;70;68;72
+female;some college;52;59;65
+male;some college;69;77;77
+female;high school;53;72;64
+female;some high school;48;58;54
+male;some high school;78;81;86
+female;high school;62;62;63
+male;some college;60;63;59
+female;high school;74;72;72
+female;high school;58;75;77
+male;high school;76;62;60
+female;some high school;68;71;75
+male;some college;58;60;57
+male;high school;52;48;49
+male;bachelor's degree;75;73;74
+female;some high school;52;67;72
+female;bachelor's degree;62;78;79
+male;some college;66;65;60
+female;some high school;49;58;55
+female;high school;66;72;70
+female;some college;35;44;43
+female;some college;72;79;82
+male;associate's degree;94;85;82
+female;associate's degree;46;56;57
+female;master's degree;77;90;84
+female;high school;76;85;82
+female;associate's degree;52;59;62
+male;bachelor's degree;91;81;79
+female;some high school;32;51;44
+female;some high school;72;79;77
+female;some college;19;38;32
+male;associate's degree;68;65;61
+female;master's degree;52;65;61
+female;high school;48;62;60
+female;some college;60;66;70
+male;high school;66;74;69
+male;some high school;89;84;77
+female;high school;42;52;51
+female;associate's degree;57;68;73
+male;high school;70;70;70
+female;associate's degree;70;84;81
+male;some college;69;60;54
+female;associate's degree;52;55;57
+male;some high school;67;73;68
+male;some high school;76;80;73
+female;associate's degree;87;94;95
+female;some college;82;85;87
+female;some college;73;76;78
+male;some college;75;81;74
+female;some college;64;74;75
+female;high school;41;45;40
+male;high school;90;75;69
+male;bachelor's degree;59;54;51
+male;some high school;51;31;36
+male;high school;45;47;49
+female;master's degree;54;64;67
+male;some high school;87;84;76
+female;high school;72;80;83
+male;some high school;94;86;87
+female;bachelor's degree;45;59;64
+male;bachelor's degree;61;70;76
+female;high school;60;72;68
+female;some high school;77;91;88
+female;some high school;85;90;92
+female;bachelor's degree;78;90;93
+male;some college;49;52;51
+female;high school;71;87;82
+female;some high school;48;58;52
+male;high school;62;67;58
+female;associate's degree;56;68;70
+female;some high school;65;69;76
+female;some high school;69;86;81
+male;some high school;68;54;53
+female;some college;61;60;57
+female;bachelor's degree;74;86;89
+male;bachelor's degree;64;60;58
+female;high school;77;82;89
+male;some college;58;50;45
+female;high school;60;64;74
+male;high school;73;64;57
+female;high school;75;82;79
+male;associate's degree;58;57;53
+female;associate's degree;66;77;73
+female;high school;39;52;46
+male;some high school;64;58;51
+female;high school;23;44;36
+male;some college;74;77;76
+female;some high school;40;65;64
+male;master's degree;90;85;84
+male;master's degree;91;85;85
+male;high school;64;54;50
+female;high school;59;72;68
+male;associate's degree;80;75;69
+male;master's degree;71;67;67
+female;high school;61;68;63
+female;some college;87;85;93
+male;some high school;82;67;61
+male;some high school;62;64;55
+female;bachelor's degree;97;97;96
+male;some college;75;68;65
+female;bachelor's degree;65;79;81
+male;high school;52;49;46
+male;associate's degree;87;73;72
+female;associate's degree;53;62;53
+female;master's degree;81;86;87
+male;bachelor's degree;39;42;38
+female;some college;71;71;80
+male;associate's degree;97;93;91
+male;some college;82;82;88
+male;high school;59;53;52
+male;associate's degree;61;42;41
+male;associate's degree;78;74;72
+male;associate's degree;49;51;51
+male;high school;59;58;47
+female;some college;70;72;76
+male;associate's degree;82;84;78
+male;associate's degree;90;90;82
+female;bachelor's degree;43;62;61
+male;some college;80;64;66
+male;some college;81;82;84
+male;some high school;57;61;54
+female;some high school;59;72;80
+female;associate's degree;64;76;74
+male;bachelor's degree;63;64;66
+female;bachelor's degree;71;70;70
+female;high school;64;73;71
+male;bachelor's degree;55;46;44
+female;associate's degree;51;51;54
+female;associate's degree;62;76;80
+female;associate's degree;93;100;95
+male;high school;54;72;59
+female;some college;69;65;74
+male;high school;44;51;48
+female;some college;86;85;91
+female;associate's degree;85;92;85
+female;master's degree;50;67;73
+male;some high school;88;74;75
+female;associate's degree;59;62;69
+female;some high school;32;34;38
+male;high school;36;29;27
+female;some high school;63;78;79
+male;associate's degree;67;54;63
+female;some high school;65;78;82
+male;master's degree;85;84;89
+female;master's degree;73;78;74
+female;high school;34;48;41
+female;bachelor's degree;93;100;100
+female;some high school;67;84;84
+male;some college;88;77;77
+male;high school;57;48;51
+female;some college;79;84;91
+female;bachelor's degree;67;75;72
+male;bachelor's degree;70;64;70
+male;bachelor's degree;50;42;48
+female;some college;69;84;82
+female;bachelor's degree;52;61;66
+female;bachelor's degree;47;62;66
+female;associate's degree;46;61;55
+female;some college;68;70;66
+male;bachelor's degree;100;100;100
+female;high school;44;61;52
+female;associate's degree;57;77;80
+male;some college;91;96;91
+male;high school;69;70;67
+female;high school;35;53;46
+male;high school;72;66;66
+female;associate's degree;54;65;65
+male;high school;74;70;69
+male;some high school;74;64;60
+male;associate's degree;64;56;52
+female;high school;65;61;71
+male;associate's degree;46;43;44
+female;some high school;48;56;51
+male;some college;67;74;70
+male;some college;62;57;62
+male;associate's degree;61;71;73
+male;bachelor's degree;70;75;74
+male;associate's degree;98;87;90
+male;some college;70;63;58
+male;associate's degree;67;57;53
+female;high school;57;58;57
+male;some college;85;81;85
+male;some high school;77;68;69
+male;master's degree;72;66;72
+female;master's degree;78;91;96
+male;high school;81;66;64
+male;some high school;61;62;61
+female;high school;58;68;61
+female;associate's degree;54;61;58
+male;high school;82;82;80
+female;some college;49;58;60
+male;some high school;49;50;52
+female;high school;57;75;73
+male;high school;94;73;71
+female;some college;75;77;83
+female;some high school;74;74;72
+male;high school;58;52;54
+female;some college;62;69;69
+male;associate's degree;72;57;62
+male;some college;84;87;81
+female;master's degree;92;100;100
+female;high school;45;63;59
+male;high school;75;81;71
+female;some college;56;58;64
+female;some high school;48;54;53
+female;associate's degree;100;100;100
+female;some high school;65;76;75
+male;some college;72;57;58
+female;some college;62;70;72
+male;some high school;66;68;64
+male;some college;63;63;60
+female;associate's degree;68;76;67
+female;bachelor's degree;75;84;80
+female;bachelor's degree;89;100;100
+male;some high school;78;72;69
+female;high school;53;50;60
+female;some college;49;65;61
+female;some college;54;63;67
+female;some college;64;82;77
+male;some college;60;62;60
+male;associate's degree;62;65;58
+male;high school;55;41;48
+female;associate's degree;91;95;94
+female;high school;8;24;23
+male;some high school;81;78;78
+male;some high school;79;85;86
+female;some college;78;87;91
+female;some high school;74;75;82
+male;high school;57;51;54
+female;associate's degree;40;59;51
+male;some high school;81;75;76
+female;some high school;44;45;45
+female;some college;67;86;83
+male;high school;86;81;75
+female;some high school;65;82;78
+female;associate's degree;55;76;76
+female;bachelor's degree;62;72;74
+male;high school;63;63;62
+female;master's degree;88;99;95
+male;high school;62;55;55
+female;high school;59;71;65
+female;some college;68;78;77
+female;some college;77;86;86
