@@ -13,9 +13,9 @@ public class AskPokemon {
     private List<Pokemon> pokemons = new PokemonReader().convertToPokemon();
 
 
-    public Long countTotalPokemons() {
-        return pokemons.stream()
-                .count();
+    public Integer countTotalPokemons() {
+        return pokemons.size();
+                //.count();
     }
 
     public Set<String> getUniqueType1() {

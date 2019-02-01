@@ -1,8 +1,27 @@
 package evaluations.week10;
 
+import java.util.List;
+
 public class StatisticianApp {
 
     public static void main(String[] args) {
+
+        Statistician statistician = new Statistician();
+
+        Integer integer = statistician.countTotalWords();
+        System.out.println(integer);
+
+        Long unique = statistician.countDistinctWords();
+        System.out.println(unique);
+
+        List<String> words = statistician.mostAppearingFiveWords();
+        System.out.println(words);
+
+        List<String> letters = statistician.mostAppearingFiveLetters();
+        System.out.println(letters);
+
+        Long numberAliceAppears = statistician.countAliceAppears();
+        System.out.println(numberAliceAppears);
 
     }
 }

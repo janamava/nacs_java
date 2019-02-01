@@ -10,7 +10,7 @@ public class AskPokemonApp {
 
         AskPokemon askPokemon = new AskPokemon();
 
-        Long totalPokemons = askPokemon.countTotalPokemons();
+        Integer totalPokemons = askPokemon.countTotalPokemons();
         System.out.println(totalPokemons);
 
         Set<String> uniqueType1 = askPokemon.getUniqueType1();

@@ -2,17 +2,16 @@ package evaluations.week10;
 
 import fileReader.FileReader;
 
-import java.util.ArrayList;
 import java.util.List;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
 public class WordsReader {
 
-    public List<String> asWords() {
-        return new FileReader().asList("evaluations/week10/alice.txt");
+    public List<String> getWords() {
 
-        return Stream.of(asWords())
+        return new FileReader().asStream("evaluations/week10/alice.txt")
+                .map(String::toLowerCase)
                 .map(e -> e.replaceAll(",", " "))
                 .map(e -> e.replaceAll("’", " "))
                 .map(e -> e.replaceAll("‘", " "))
@@ -23,13 +22,16 @@ public class WordsReader {
                 .map(e -> e.replaceAll("\\*", " "))
                 .map(e -> e.replaceAll("\\.", " "))
                 .map(e -> e.replaceAll("/", " "))
-                .map(e -> e.replaceAll("'s", " "))
+                .map(e -> e.replaceAll("’s", " "))
                 .map(e -> e.replaceAll("#", " "))
                 .map(e -> e.replaceAll(";", " "))
                 .map(e -> e.replaceAll(":", " "))
                 .map(e -> e.replaceAll("-", " "))
-                .map(e -> e.trim())
+                .map(e -> e.replaceAll("!", " "))
+                .map(e -> e.replaceAll("\\?", " "))
                 .map(e -> e.split(" "))
+                .flatMap(Stream::of)
+                .filter(e -> !e.isEmpty())
                 .collect(Collectors.toList());
 
     }
